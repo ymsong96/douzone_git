@@ -38,7 +38,7 @@ public class UpdateServlet extends HttpServlet {
 			out.println("</head>");
 
 			out.println("<body>");
-				out.println("<h1>" + id + " 의 ID가 목록이 수정 되었습니다!</h1>");
+				out.println("<h1>" + id + " 의 ID가 목록이 수정 됫다.!</h1>");
 				out.println("<a href = 'index.html'>HOME</a>");
 			out.println("</body>");
 		out.println("</html>");
