@@ -44,6 +44,7 @@ public class RegisterServlet extends HttpServlet {
 
 			out.println("<body>");
 				out.println("<h1>"+ id +" 가입이 완료 되었습니다!</h1>");
+				out.println("<h1>"+ id +" 가입이 완료 되었습니다!</h1>");
 			out.println("</body>");
 		out.println("</html>");
 		out.close();
